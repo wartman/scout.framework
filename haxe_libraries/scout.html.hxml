@@ -1,0 +1,3 @@
+-D scout.html=0.0.0
+# @install: lix --silent download "gh://github.com/wartman/scout.html#7e67d139f741e15ac19acbc267de0b7c140104fc" into scout.html/0.0.0/github/7e67d139f741e15ac19acbc267de0b7c140104fc
+-cp ${HAXE_LIBCACHE}/scout.html/0.0.0/github/7e67d139f741e15ac19acbc267de0b7c140104fc/src

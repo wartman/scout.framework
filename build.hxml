@@ -1,0 +1,7 @@
+-cp src
+-lib scout.html
+
+-cp test
+-cp example/src
+-main TodoApp
+-js example/assets/app.js
